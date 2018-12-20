@@ -2,7 +2,7 @@ first file ..file1
 file1 modified
 file again modified
 <<<<<<< HEAD
-masterrrrrrrrrrrrrrrrrrrrrrrrrrrr
+smasterrrrrrrrrrrrrrrrrrrrrrrrrrrr
 master
 =======
 master1
